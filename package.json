@@ -1,0 +1,93 @@
+{
+  "name": "backpacker-for-nodejs-developers",
+  "publisher": "AbdulmoizAhmer",
+  "displayName": "Backpacker Nodejs Extensions Pack",
+  "description": "What's in the backpack? Well every extension you might need as a node js developer.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Abdulmoiz Ahmer"
+  },
+  "icon": "images/backpack.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdulmoiz-Ahmer/backpacker-for-nodejs-developers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abdulmoiz-Ahmer/backpacker-for-nodejs-developers/issues",
+    "email": "abdulmoizahmer1996@gmail.com"
+  },
+  "preview": true,
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.path-intellisense",
+    "mikestead.dotenv",
+    "leodevbro.blockman",
+    "steoates.autoimport",
+    "ziyasal.vscode-open-in-github",
+    "streetsidesoftware.code-spell-checker",
+    "ms-azuretools.vscode-docker",
+    "usernamehw.errorlens",
+    "donjayamanne.git-extension-pack",
+    "GitHub.vscode-pull-request-github",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "dbaeumer.vscode-eslint",
+    "KnisterPeter.vscode-commitizen",
+    "Orta.vscode-jest",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "whtouche.vscode-js-console-utils",
+    "quicktype.quicktype",
+    "esbenp.prettier-vscode",
+    "plibither8.remove-comments",
+    "jasonnutter.search-node-modules",
+    "rangav.vscode-thunder-client",
+    "humao.rest-client",
+    "ms-vscode.vs-keybindings",
+    "bigous.vscode-multi-line-tricks",
+    "SimonSiefke.svg-preview",
+    "apollographql.vscode-apollo",
+    "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
+    "wmaurer.change-case",
+    "fabiospampinato.vscode-diff",
+    "bierner.markdown-preview-github-styles",
+    "meganrogge.template-string-converter",
+    "deerawan.vscode-faker",
+    "MariusAlchimavicius.json-to-ts",
+    "stringham.move-ts",
+    "shakram02.bash-beautify",
+    "bungcip.better-toml",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-vscode.makefile-tools",
+    "mongodb.mongodb-vscode",
+    "cweijan.vscode-mysql-client2",
+    "prashaantt.node-tdd",
+    "bengreenier.vscode-node-readme",
+    "miramac.vscode-exec-node",
+    "christian-kohler.npm-intellisense",
+    "redhat.vscode-yaml"
+  ],
+  "keywords": [
+    "web development extension pack",
+    "web development essentials",
+    "back pack",
+    "back packer",
+    "backpack",
+    "backpacker",
+    "extension pack",
+    "developers extension pack",
+    "javascript extension pack",
+    "Nodejs extension pack",
+    "web"
+  ]
+}
